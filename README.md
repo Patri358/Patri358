@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, i'm Patricio!
 
-<!--
-**Patri358/Patri358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer from Argentina! 💻
 
-Here are some ideas to get you started:
+## Technologies and lenguajes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend: 
+ - React ⚛️
+ - Css
+- HTML
+- JavaScript  
+### Backend: 
+ - Python 
+ - Node.js
+ - .Net
+  - C#  
+### DataBase: 
+ - MySql 
+ - MongoDb 
+ - SqLite
+ - SqlServer  
+### Data Analysis:
+ - Python 
+ - Pandas
+ - NumPy 
+ - Matplotlib 
+ -   Seaborn
+  - Statsmodels
+### Tools / DevOps: 
+- Git - Github 
+- Jira 
+- Azure
+
+## Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Patri358&theme=dark)](https://git.io/streak-stats)
