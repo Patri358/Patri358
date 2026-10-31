@@ -5,7 +5,7 @@
 ## 🚀 Technologies & Skills
 
 ### 🎨 Frontend Development 
- - React ⚛️
+ - React 
  - Css
 - HTML
 - JavaScript  
